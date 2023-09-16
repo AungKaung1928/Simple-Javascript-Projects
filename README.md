@@ -1,2 +1,2 @@
 # My-Projects
-You can check out my projects
+You can check out all of my projects here.
