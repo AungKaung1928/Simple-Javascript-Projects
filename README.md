@@ -1,5 +1,5 @@
 # My-Projects
-You can check out all of my projects here.
+You can check out some of my JavaScript projects here.
 
 # Breakout Game 🎮
 Classic brick-breaking arcade game.
