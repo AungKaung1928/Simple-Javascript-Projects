@@ -1,4 +1,4 @@
-# My-Projects
+# My-Javascript-MiniProjects
 You can check out some of my JavaScript projects here.
 
 # Breakout Game 🎮
